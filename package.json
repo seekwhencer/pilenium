@@ -1,0 +1,30 @@
+{
+  "name": "pileniumgrid",
+  "version": "0.0.1",
+  "description": "Raspberry Pi Selenium Grid",
+  "homepage": "http://github.com/seekwhencer/pileniumgrid",
+  "keywords": [
+    "raspberry pi",
+    "selenium",
+    "grid"
+  ],
+  "author": "Matthias Kallenbach (https://github.com/seekwhencer)",
+  "contributors": [
+    "Matthias Kallenbach (https://github.com/seekwhencer)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/seekwhencer/pileniumgrid"
+  },
+  "bugs": {
+    "url": "http://github.com/seekwhencer/pileniumgrid/issues"
+  },
+  "main": "node/pileniumgrid.js",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-nightwatch": "^0.5.4",
+    "nightwatch": "^0.9.14"
+  }
+}
