@@ -5,7 +5,7 @@
 ```bash
     
     cd /
-    sudo git clone xxx data
+    sudo git clone https://github.com/seekwhencer/pilenium.git data
     sudo sh /data/script/install_pi.sh
     
 ```
@@ -26,7 +26,7 @@ Same as Pi but
 ```bash
 
     cd /some/where/on/my/disk/
-    sudo git clone xxx pilenium
+    sudo git clone https://github.com/seekwhencer/pilenium.git pilenium
     cd pilenium
     sudo sh script/install_dev.sh
 
